@@ -1,0 +1,58 @@
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.Form1.resources
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\Proyectos con C#\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe.config
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.Properties.Resources.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.exe
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmPrincipal.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmAsistencia.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmUsuarioAdministrador.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ReglasNegocio.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ReglasNegocio.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ReglasNegocio.dll.config
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmArea.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmEmpleado.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmEncargatura.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.CONTRATO.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmCarnetEmpleado.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmPermiso.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.frmTardanza.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\obj\Debug\ManaosMarket.FrmPlanilla.resources
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ClosedXML.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\DocumentFormat.OpenXml.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ExcelNumberFormat.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\Irony.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\SixLabors.Fonts.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Buffers.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.IO.Packaging.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Memory.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Numerics.Vectors.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\XLParser.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ClosedXML.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\DocumentFormat.OpenXml.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\ExcelNumberFormat.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\SixLabors.Fonts.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Buffers.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.IO.Packaging.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Memory.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Numerics.Vectors.xml
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\ManaosMarket\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
