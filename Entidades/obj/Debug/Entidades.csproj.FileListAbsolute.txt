@@ -1,0 +1,6 @@
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\bin\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\bin\Debug\Entidades.pdb
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\obj\Debug\Entidades.dll
+D:\UNIVERSIDAD\Ciclo 2023-II\INGENIERIA DE SOFTWARE\ManaosMarket\Entidades\obj\Debug\Entidades.pdb
